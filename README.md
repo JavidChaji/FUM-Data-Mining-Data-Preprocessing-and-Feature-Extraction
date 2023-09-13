@@ -21,7 +21,7 @@ FUM Data Mining Data Preprocessing and Feature Extraction
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/BreadcrumbsFUM-Data-Mining-Data-Preprocessing-and-Feature-Extraction.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Data-Mining-Data-Preprocessing-and-Feature-Extraction.svg?style=for-the-badge
 
 [contributors-url]: https://github.com/javidchaji/FUM-Data-Mining-Data-Preprocessing-and-Feature-Extraction/graphs/contributors
 
