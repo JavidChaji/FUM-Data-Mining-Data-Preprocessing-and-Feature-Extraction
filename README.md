@@ -11,7 +11,7 @@
 
 [![LinkedIn][linkedin-shield]][javid-linkedin-URL]
 
-# data-preprocessing-feature-extraction
+# Data Preprocessing and Feature Extraction
 
 FUM Data Mining Data Preprocessing and Feature Extraction
 
